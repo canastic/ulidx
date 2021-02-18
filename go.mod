@@ -1,4 +1,4 @@
-module gitlab.com/canastic/ulidx
+module github.com/canastic/ulidx
 
 go 1.12
 
